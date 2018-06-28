@@ -4,3 +4,11 @@
 .shoot {
     margin-right: 15px;
 }
+table {
+    text-align: center;
+    margin:  auto;
+    height: auto;
+    width:  500px;
+    border: 1px solid black;
+    table-layout: fixed;
+}
